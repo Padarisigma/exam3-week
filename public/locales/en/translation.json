@@ -1,0 +1,302 @@
+{
+    "Example": {
+      "welcome": "Welcome",
+      "2": "Translate",
+      "3": "Trial",
+      "navbar": {
+        "text1": "Buy Account",
+        "text2": "Sell account",
+        "text3": "Services",
+        "text4": "Blog",
+        "text5": "Utility"
+      },
+      "footer": {
+        "text1": "Back to top",
+        "text2": "Buy Account",
+        "text3": "Sell account",
+        "text4": "Services",
+        "text5": "Blog",
+        "text6": "Email:",
+        "text7": "Follow Us:",
+        "text8": "Contact Us:"
+      },
+      "headerHome": {
+        "text1": "Start selling on Amazon right after buying an aged account or an entire online business",
+        "text2": "After your payment, you will be given access to full account details such as: login, e-mail details, bank card information and other important documentation."
+      },
+      "section1": {
+        "text1": " Amazon Global Selling: Access to the top international retail markets",
+        "text2": "Americas",
+        "text3": "Europe",
+        "text4": "Asia-Pacific"
+      },
+      "section2": {
+        "text1": "Marketplaces",
+        "text2": "Fulfillment Centers",
+        "text3": "Countries with Loyal Amazon Customers",
+        "text4": "Product Categories"
+      },
+      "section3": {
+        "text": "List of aged accounts for sale"
+      },
+      "section4": {
+        "text1": "Benefits you will get",
+        "text2": "Verified Amazon Accounts",
+        "text3": "Each account goes through an expanded multi-level authentication before the commercial offer.",
+        "text4": "Deal Safety",
+        "text5": "We ensure the security of the account transaction between the seller and the buyer.",
+        "text6": "After-purchase Support",
+        "text7": "We will provide you a technical support within 14 days after the purchase. We will be happy to answer all your questions."
+      },
+      "section5": {
+        "text1": "Amazon verified accounts",
+        "text2": "Become an Amazon seller! We offer country-based accounts for selling on Amazon.",
+        "text3": "Work around the world",
+        "text4": "The account will be installed on the server with a special IP address.",
+        "text5": "All types of selling",
+        "text6": "Dropshipping, Online Arbitrage, Private Label.",
+        "text7": "Money flow",
+        "text8": "All payments will go to your Payoneer."
+      },
+      "section6": {
+        "text1": "Buy new or aged Amazon Seller account",
+        "text2": "Aged seller accounts",
+        "text3": "Aged seller accounts are checked by account health, sales history, suspensions, type of fulfillment used to sell, feedback quantity and quality, all performance notifications and ungated brands or categories. As we are having a dropshipping business on Amazon, we know everything about suspensions and importance to check all this information before selling any of the accounts.",
+        "text4": "New seller accounts",
+        "text5": "New seller accounts that were not suspended upon registration and are almost guaranteed to have no utility bill request in future. We never experienced Amazon asking for a utility bill in case it wasn't requested in the beginning. These accounts can be used both for selling or for technical purposes.",
+        "text6": "Dropshipping, Online Arbitrage, Private Label."
+      },
+      "section7": {
+        "text1": "Pricing",
+        "text2": "New Amazon Seller Account",
+        "text3": "New Amazon Seller Account"
+      },
+      "section8": {
+          "title": "Process",
+          "step1": "Check your account",
+          "step1desc": "Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection.",
+          "step2": "Payment",
+          "step2desc": "We take a payment using your preferred method. We accept: Payoneer, bank transfer, and bitcoin.",
+          "step3": "Account Details",
+          "step3desc": "We give you all the log in details to your new account. After that, you set up your own password and Two-Step authentication methods for your Amazon account and Virtual Proxy Server where your account is located.",
+          "step4": "Confirm your selection",
+          "step4desc": "Check the account of your choice via TeamViewer or Any Desk. You inspect the account from your end to confirm your selection.",
+          "leaveRequest": {
+            "title": "Leave a Request",
+            "description": "It will take you less than sixty seconds. A member of our team will contact you shortly after.",
+            "emailLabel": "Email Address*",
+            "phoneLabel": "Telephone number",
+            "messageLabel": "Your message",
+            "buttonText": "Send"
+          },
+          "clientsSay": {
+            "title": "What our clients say",
+            "client1": "I have to say, \"amazmarkets\" gets over an A+ rating from me. I will be recommending this company and team to everyone. Thanks again!",
+            "client1Name": "Steven Cody",
+            "client2": "I have to say, \"amazmarkets\" gets over an A+ rating from me. I will be recommending this company and team to everyone. Thanks again!",
+            "client2Name": "Steven Cody"
+          }
+        },
+        "section9": {
+      "title": "Sell your Amazon account with us. Use our online evaluation tool to determine how much your account could be worth.",
+      "description": "After your payment, you will be given access to full account details such as: login, e-mail details, bank card information, and other important documentation.",
+      "button": "GET STARTED",
+      "scroll": "SCROLL"
+    },
+    
+    "section10": {
+      "text1": "What our clients say",
+      "text2": "I have to say, amazmarkets gets over an A+ rating from me. I will be recommending this company and team to everyone. Thanks again!",
+      "text3": "Steven Cody",
+      "text4": "Excellent and professional service. Very friendly and helpful. Would definitely use again. Highly recommend!",
+      "text5": "Jason Luis"
+    },
+    "section11": {
+      "text1": "General Inquiriest",
+      "text2": "Common information about the work of AmazMarkets.",
+      "text3": "Multiple Seller Accounts",
+      "text4": "Learn more about the process of creating multiple sellers accounts.",
+      "text5": "Payment Procedure",
+      "text6": "Payment methods and payments process itself.",
+      "text7": "Privacy and Security",
+      "text8": "Security of the account you buy and your personal data.",
+      "text9": "Refund Policy",
+      "text10": "SellerSpace policy regarding account returns and refunds."
+    }
+  },
+  
+    "Page2": {
+      "section8": {
+        "step1": "Step 1: Register",
+        "step2": "Step 2: Verify",
+        "step2desc": "Description of step 2.",
+        "step3": "Step 3: Approve",
+        "step3desc": "Description of step 3.",
+        "step4": "Step 4: Finalize",
+        "step4desc": "Description of step 4.",
+        "leaveRequest": {
+          "title": "Leave Request",
+          "description": "Please provide your leave details below.",
+          "emailLabel": "Email",
+          "phoneLabel": "Phone",
+          "messageLabel": "Message",
+          "buttonText": "Submit Request",
+          "step1": "Fill in your details.",
+          "step2": "Select your leave dates.",
+          "step3": "Submit your leave request."
+        },
+        "evaluationTool": {
+          "title": "Evaluation Tool",
+          "registrationDate": "Registration Date",
+          "feedbackAmount": "Feedback Amount",
+          "marketplaceLocation": "Marketplace Location",
+          "policyViolation": "Policy Violation",
+          "feedbackAmountMore": "More than 100",
+          "earlier": "Earlier",
+          "usa": "USA",
+          "europe": "Europe",
+          "yes": "Yes",
+          "no": "No",
+          "emailPlaceholder": "Enter your email"
+        },
+        "stepByStepExplanation": "Step-by-Step Explanation",
+        "step1Title": "Step 1: Register",
+        "step1Description": "Complete the registration form to begin.",
+        "step2Title": "Step 2: Verify",
+        "step2Description": "Verify your email address to proceed.",
+        "step3Title": "Step 3: Approve",
+        "step3Description": "Approval will be given after verification.",
+        "step4Title": "Step 4: Finalize",
+        "step4Description": "Finalize your account details.",
+        "step5Title": "Step 5: Confirmation",
+        "step5Description": "You will receive a confirmation email.",
+        "step6Title": "Step 6: Get Started",
+        "step6Description": "You can now start using the service."
+      }
+    },
+  
+  
+  "blog": {
+    "header": {
+      "text1": "BLOG",
+      "text2": "All categories",
+      "text3": "CRYPTO TRADING RECOMMENDATIONS",
+      "text4": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term.",
+      "text5": "Identify the type of trade, some crypto trading advice",
+      "text6": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term. Medium-term traders are difficult to distinguish here. What does short term work imply? Read here crypto trading alerts.",
+      "text7": "Crypto trading tracking news",
+      "text8": "This is the trade in crypto-currencies at a small time distance in order to obtain a quick profit. Taking into account the high volatility, according to some crypto-currencies for a month you can earn more than a number of ordinary assets for the year crypto trading volume by country. As for investments, usually, they are made long-term. A trader can buy this or that coin and keep it for 6 months, a year or longer. The ultimate goal of such investments is to get profit from the difference in quotations, but only on a larger scale. go to the content.",
+      "text9": "Search for the stock exchange, registration, depositing funds to the trading account In order to start dealing with crypto trading, you need to find a suitable site. In the industry, at the time of writing, a large number of exchanges have been opened. Therefore, many traders, especially beginners, are quite easily confused in this diversity. What should I look for? First of all, how popular the playground is. The more it is promoted, the higher the chances that the company is really reliable and was not created to collect money from crypto trading newsletter. However, it is important to take into account one nuance – the more popular the company, the less interesting conditions it will probably offer traders. This may be due to higher commissions for the transaction and so on. Such companies no longer need special offers for customers, as they are known and new users constantly come to them. When the exchange is found, it is necessary to complete the registration procedure. Most often, it involves filling a simple form. Some sites today require additional verification. This procedure provides documents identifying the identity and place of registration.",
+      "text10": "Working with the schedule crypto trading profit calculator",
+      "text11": "After the user has become a client of the exchange, you can start trading. There are several options – to start immediately, relying on intuition and advice from analysts, or to receive training in technical analysis, learn more about the psychology of trading and then, fully prepared to take the first steps on the site. The first option is good in its own way, as it allows you to practice trading almost immediately. However, there are risks of losing capital. The fact is that it is difficult to predict market fluctuations. And if there is no relevant knowledge, then you can do it at random with a minimum chance of success. You can closely follow the advice of analysts, but they are sometimes mistaken. In addition, in order to understand such recommendations, it is necessary, after all, to have at least a basic knowledge, so training crypto trading is necessary.",
+      "text12": "Psychology",
+      "text13": "In trading in any markets, psychology is very important. In full, this applies to the crypto currency. The fact is that in the process of work, a trader can capture a variety of emotions. The ability to control them is the key to success. Very often, novice traders make mistakes that lead to significant losses of capital. For example, after a successful transaction, they open one more, increase the size of the transaction, do not analyze the market before entering. As a result, a combination of factors leads to the fact that the transaction closes at a loss. The same concerns unprofitable transactions. After them, the trader may be afraid to enter the market and in the end will not be able to open positions, lose profit. Emotion has a big impact on any investor. Before a trader becomes a professional, he must learn to control himself, minimize the impact on trade of such aspects as greed and fear.",
+      "text14": "A few tips for beginner cryptotrader with crypto trading market",
+      "text15": "Many investors and crypto traders, who have not yet started their careers and are in the crypto-currency market, admit one serious mistake – they buy only bitcoins and don’t use crypto trading robot. To some extent this is correct, since bitcoin is the most famous asset and its growth has been quite significant lately. On the other hand, any professional trader and investor knows that the most important aspect of success is diversification. Accordingly, it is desirable to buy not only bitcoin, but also other cryptocurrencies. In this case, the fall of one of them can be compensated by the growth of the other. Another recommendation for beginner crypto traders is to find opportunities for arbitrage. This is one of the simplest strategies, which, at least, does not require any knowledge and does not require the study of crypto trading. The essence of this technique is that the trader is looking for a difference in prices for the same asset on two or more exchanges. When he finds such a difference, he takes advantage of the moment and profits from it. Let us give an example. Suppose a trader works with bitcoin, whose exchange rate on A is 10,000USD. At the exchange B for the same asset is 10 500USD. In this case, you need to buy BTC on Exchange A, and then sell the same asset on Exchange B. Dirty profit will be 500USD. Net trader will receive less, since the stock exchange in any case has commissions. In addition, certain amounts are lost on payments when replenishing the account and withdrawing funds. In any case, this strategy is interesting and today it is used by many traders. For beginners and not only they can recommend – never invest in transactions more than they can afford. First, it will significantly increase the psychological burden. Especially if money was borrowed from relatives or acquaintances, or on credit with a bank. Secondly, debts and credit will have to be returned in case of failure. Most often, this permanently, if not forever, discourages people from engaging in crypto trading and investing. Therefore, initially, it is better to risk insignificant amounts that a trader can afford to lose. Finally, it is important to remember the risks. The fact is that crypto-currencies are very volatile. Daily fluctuations can reach 20-40%. Here, as wide opportunities open up, so are huge risks. It is important first of all to understand all the dangers. In this case, the trader will be able to minimize risks through his actions.",
+      "articles": {
+        "4": {
+          "title": "BEST CRYPTO TRADING GROUPS",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "5": {
+          "title": "HOW CRYPTO TRADING SERVICES WORK?",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "6": {
+          "title": "HOW TO EARN MONEY WITH CRYPTO TRADING ALGORITHM?",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "7": {
+          "title": "BEST CRYPTO TRADING GROUPS",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "8": {
+          "title": "HOW CRYPTO TRADING SERVICES WORK?",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "9": {
+          "title": "HOW TO EARN MONEY WITH CRYPTO TRADING ALGORITHM?",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "10": {
+          "title": "HOW CAN BLOCKCHAIN BE USED FOR OWNERSHIP?",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "11": {
+          "title": "HOW DOES BLOCKCHAIN INCREASE TRANSPARENCY?",
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        },
+        "12": {
+          "title": "CRYPTO MINING: WHAT IS IT?",
+
+          "description": "Usually, there are three main types of trade – short, medium and long term. In the industry, there are only two main types of cryptocurrency, short-term and long-term."
+        }
+      }
+    }
+  },
+  "page3" : {
+    "header" : {
+      "text1" : "Amazon Complex Launch",
+      "text2" : "Business on Amazon is a profitable thing but it’s not easy and time-consuming. Our team has been through it for multiple times. We will build your business as well: we do and consult, you make decisions."
+    },
+    "section1" : {
+      "text1" : "What We Offer",
+      "text2" : "Analytics",
+      "text3" : "Analysis of the USA and European markets;",
+      "text4" : "Selection of the niche and product on Amazon;",
+      "text5" : "Business plan development.",
+      "text6" : "Suppliers",
+      "text7" : "Supplier search;",
+      "text8" : "Supplier revision;",
+      "text9" : "Goods inspection;",
+      "text10" : "Delivery of goods to Amazon warehouse.",
+      "text11" : "Listing",
+      "text12" : "Analysis of competitor’s reviews and goods;",
+      "text13" : "Keywords selection (200-600);",
+      "text14" : "Copywriting texts;",
+      "text15" : "Product photosession (actionable, in studio);",
+      "text16" : "Design of advertising images;",
+      "text17" : "Creation of ready-made Amazon page.",
+      "text18" : "Branding",
+      "text19" : "Creation of new brand name;",
+      "text20" : "Development of logo and style;",
+      "text21" : "Package design;",
+      "text22" : "Creation of additional production: inserts, instructions, leaflets.",
+      "text23" : "Marketing",
+      "text24" : "PPC advertising (Amazon, Facebook, Google, Instagram);",
+      "text25" : "Listing audit and optimization;",
+      "text26" : "Review generation;",
+      "text27" : "Landing page development.",
+      "text28" : "Data scraping",
+      "text29" : "Action plan for eCommerce growth;",
+      "text30" : "Digital shelf analytics for any retailer;",
+      "text31" : "Amazon sales, share, traffic and conversion analytics;",
+      "text32" : "Expert recommendations & analysis. "
+    },
+    "section2" : {
+      "text1" : "Meet Our Team",
+      "text2" : "Account Manager",
+      "text3" : "Analytics",
+      "text4" : "Logisticians",
+      "text5" : "Progect Manager",
+      "text6" : "Designer",
+      "text7" : "Retousher",
+      "text8" : "Copywriter",
+      "text9" : "Photographer",
+      "text10" : "Marketer",
+      "text11" : "PPC-specialist"
+    },
+    "section3" : {
+      "text1" : "How It Works",
+      "text2" : "Make your choice",
+      "text3" : "Select all necessary services you need.",
+      "text4" : "Submit a request",
+      "text5" : "Complete the form and send it to us.",
+      "text6" : "Work Evaluation",
+      "text7" : "We will apply the best offer to you.",
+      "text8" : "Start Working",
+      "text9" : "That`s it! We are ready to start working."
+    }
+  }
+}
+  
