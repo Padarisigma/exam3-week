@@ -16,18 +16,19 @@ const Layout = () => {
     const {t}=useTranslation()
     function TranslateClick(lang) {
         i18n.changeLanguage(lang);
+        setOpen(false)
     }
   return (
     <>
 <Modal  open={open}  onCancel={()=>setOpen(false)} footer={null}>
 <ul className='flex flex-col  py-[20px] gap-[20px] items-center list-none text-[#889196] text-[19px]'>
-           <NavLink to='/' style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text1')}</li></NavLink>
-           <NavLink to='/buyacc' style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text2')}</li></NavLink>
-           <NavLink to='/services' style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text3')}</li></NavLink>
-           <NavLink to='/blog' style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text4')}</li></NavLink>
-           <NavLink to='/utility' style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text5')}</li></NavLink>
+           <NavLink to='/' onClick={()=>setOpen(false)}  style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none",})}><li >{t('Example.navbar.text1')}</li></NavLink>
+           <NavLink to='/buyacc' onClick={()=>setOpen(false)} style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text2')}</li></NavLink>
+           <NavLink to='/services' onClick={()=>setOpen(false)} style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text3')}</li></NavLink>
+           <NavLink to='/blog' onClick={()=>setOpen(false)} style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text4')}</li></NavLink>
+           <NavLink to='/utility' onClick={()=>setOpen(false)} style={({ isActive }) => ({ color: isActive ? '#EB6108' : '#889196', textDecoration:"none"  })}><li >{t('Example.navbar.text5')}</li></NavLink>
            <div className='flex gap-[20px] text-white'>
-      <button onClick={()=>TranslateClick('tj')} className='hover:text-[#EB6108] text-[#889196]'>TJ</button>
+      <button onClick={()=>TranslateClick('tj')}  className='hover:text-[#EB6108] text-[#889196]'>TJ</button>
       <button onClick={()=>TranslateClick('ru')} className='hover:text-[#EB6108] text-[#889196]'>RU</button>
       <button onClick={()=>TranslateClick('en')} className='hover:text-[#EB6108] text-[#889196] '>EN</button>
     

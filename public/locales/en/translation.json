@@ -297,6 +297,44 @@
       "text8" : "Start Working",
       "text9" : "That`s it! We are ready to start working."
     }
+  },
+  "utility":{
+    "last": "Sell your Amazon account with us. Use our online evaluation tool to determine how much your account could be worth",
+    "text1": "Utility Bills for Amazon Account Verification" ,
+    "text2" : "Documents ready to send out",
+    "text3" : "Electricity Bill",
+    "text4" : "Leave a request to get your utility bill",
+    "text5" : "It will take you less than sixty seconds. A member of our teamwill contact you shortly after.",
+    "text6": "Invoices for Amazon from a US supplier with a call",
+    "text7": "You will receive complete documents in English ready to send out..",
+    "text8": " Invoices from a US supplier",
+    "text9": " This is an officially registered US wholesale supplier: The whole process will take place within the US law and complying with all  Amazon requirements.",
+    "text10": " You receive invoices with all the instructions in 1-2 days after ordering. The supplier can also answer Amazon call on invoices.",
+    "text11": " Documents ready to send out",
+    "text12": "If you receive an invoice request, then you can do more than just unlocking your account.",
+    "text13": " Invoice is requested to verify your account or in connection withsome violations.",
+    "text14": " We will answer an Amazon call on invoices",
+    "text15": " In 90% of cases, Amazon call suppliers on invoices. If the companydoesn’t manage to contact the supplier, then you will receive an email that Amazon was “unable to verify the supplier”."
+  },
+  "complex": {
+    "text1": "Amazon Complex Launch",
+    "text2": "Business on Amazon is a profitable thing but it’s not easy and time-consuming. Our team has been through it for multiple times. We will build your business as well: we do and consult, you make decisions.",
+    "text3": "Analytics",
+    "text4": "Analysis of the USA and European  markets;",
+    "text5": "Selection of the niche and product  on Amazon;",
+    "text6": "Business plan development.",
+    "text66": "PPC advertising (Amazon, Facebook, Google, Instagram);",
+    "text7": "Product photosession  (actionable, in studio);",
+    "text77": "Creation of ready-made  Amazon page.",
+    "text8": "Design of advertising images;",
+    "text9": "Creation of ready-made  Amazon page.",
+    "text10": "Meet Our Team",
+    "text11": "Account Manager",
+    "text12": "How It Works",
+    "text13": "Make your choice",
+    "text14": "Select all necessary  services you need."
   }
+
+
 }
   

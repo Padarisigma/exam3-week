@@ -37,7 +37,7 @@ const Buyacc = () => {
     <section className='bg-[#0C0D12] pt-[50px]'>
             <div className='w-[90%] sm:w-[80%] m-auto flex flex-col sm:flex-row justify-between gap-[50px] items-center'>
               <aside className='flex sm:w-[50%] text-center sm:text-left flex-col items-center sm:items-start gap-[30px]'>
-                <p className='text-[35px] text-[#FEFEFE] font-semibold  '>{t('Example.headerHome.text1')}</p>
+                <p className='text-[35px] text-[#FEFEFE] font-semibold  '>{t('utility.last')}</p>
                 <p className='text-[25px] text-[#FEFEFE]'>{t('Example.headerHome.text2')}</p>
                 <div className='flex gap-[10px] mb-[40px] items-center bg-[#ED7212] py-[10px] px-[25px] rounded-[7px] border-0'>
                     <img src={sec3} alt="" />
